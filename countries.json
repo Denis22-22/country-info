@@ -1,72 +1,52 @@
 [
   {
-    "name": {
-      "common": "Ukraine",
-      "official": "Ukraine",
-      "nativeName": {
-        "ukr": {
-          "official": "Україна",
-          "common": "Україна"
-        }
-      }
-    },
-    "capital": "Kyiv",
-    "region": "Europe"
+    "name": "Україна",
+    "capital": "Київ",
+    "region": "Європа"
   },
   {
-    "name": {
-      "common": "Germany",
-      "official": "Federal Republic of Germany",
-      "nativeName": {
-        "deu": {
-          "official": "Bundesrepublik Deutschland",
-          "common": "Deutschland"
-        }
-      }
-    },
-    "capital": "Berlin",
-    "region": "Europe"
+    "name": "Сполучені Штати Америки",
+    "capital": "Вашингтон, округ Колумбія",
+    "region": "Північна Америка"
   },
   {
-    "name": {
-      "common": "France",
-      "official": "French Republic",
-      "nativeName": {
-        "fra": {
-          "official": "République française",
-          "common": "France"
-        }
-      }
-    },
-    "capital": "Paris",
-    "region": "Europe"
+    "name": "Франція",
+    "capital": "Париж",
+    "region": "Європа"
   },
   {
-    "name": {
-      "common": "Spain",
-      "official": "Kingdom of Spain",
-      "nativeName": {
-        "spa": {
-          "official": "Reino de España",
-          "common": "España"
-        }
-      }
-    },
-    "capital": "Madrid",
-    "region": "Europe"
+    "name": "Китай",
+    "capital": "Пекін",
+    "region": "Азія"
   },
   {
-    "name": {
-      "common": "Italy",
-      "official": "Italian Republic",
-      "nativeName": {
-        "ita": {
-          "official": "Repubblica italiana",
-          "common": "Italia"
-        }
-      }
-    },
-    "capital": "Rome",
-    "region": "Europe"
+    "name": "Бразилія",
+    "capital": "Бразиліа",
+    "region": "Південна Америка"
+  },
+  {
+    "name": "Іспанія",
+    "capital": "Мадрид",
+    "region": "Європа"
+  },
+  {
+    "name": "Росія",
+    "capital": "Москва",
+    "region": "Європа/Азія"
+  },
+  {
+    "name": "Єгипет",
+    "capital": "Каїр",
+    "region": "Північна Африка"
+  },
+  {
+    "name": "Австралія",
+    "capital": "Канберра",
+    "region": "Океанія"
+  },
+  {
+    "name": "Італія",
+    "capital": "Рим",
+    "region": "Європа"
   }
 ]

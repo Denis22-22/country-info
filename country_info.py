@@ -1,7 +1,7 @@
 import json
 
 # Зчитування даних з JSON-файлу
-with open("countries.json", "r") as file:
+with open("countries.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Запит назви країни від користувача

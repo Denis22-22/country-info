@@ -1,0 +1,72 @@
+[
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine",
+      "nativeName": {
+        "ukr": {
+          "official": "Україна",
+          "common": "Україна"
+        }
+      }
+    },
+    "capital": "Kyiv",
+    "region": "Europe"
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany",
+      "nativeName": {
+        "deu": {
+          "official": "Bundesrepublik Deutschland",
+          "common": "Deutschland"
+        }
+      }
+    },
+    "capital": "Berlin",
+    "region": "Europe"
+  },
+  {
+    "name": {
+      "common": "France",
+      "official": "French Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République française",
+          "common": "France"
+        }
+      }
+    },
+    "capital": "Paris",
+    "region": "Europe"
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "nativeName": {
+        "spa": {
+          "official": "Reino de España",
+          "common": "España"
+        }
+      }
+    },
+    "capital": "Madrid",
+    "region": "Europe"
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        }
+      }
+    },
+    "capital": "Rome",
+    "region": "Europe"
+  }
+]
